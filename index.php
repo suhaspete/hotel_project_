@@ -30,7 +30,7 @@ if (isset($_POST['user_login_submit'])) {
     
     // Redirection logic
     if (isset($_SESSION['usermail']) && $_SESSION['login_success']) {
-        header("Location: http://localhost/hotel_project_/reservation.php");
+        header("Location: http://localhost/hotel_project_/home.php");
         exit();
     } else {
         header("Location: http://localhost/hotel_project_/index.php");
