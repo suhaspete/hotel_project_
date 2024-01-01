@@ -662,7 +662,7 @@ openbookbox = () => {
     }
 
     redirectToDeluxRoom = () => {
-        window.location.href = "http://localhost/hotel_project_/DeluxRoom.php";
+        window.location.href = "http://localhost/hotel_project_/deluxroom_2.php";
     }
 </script>
 </html>
