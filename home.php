@@ -265,7 +265,7 @@ font-size: 17px !important;
     <div class="ourroom">
       <h1 class="head">≼ Our room ≽</h1>
       <div class="roomselect">
-        <div class="roombox">
+        <!-- <div class="roombox">
           <div class="hotelphoto h1"></div>
           <div class="roomdata">
             <h2>Superior Room</h2>
@@ -276,10 +276,10 @@ font-size: 17px !important;
               <i class="fa-solid fa-dumbbell"></i>
               <i class="fa-solid fa-person-swimming"></i>
             </div>
-            <button class="btn btn-primary bookbtn"  onclick="openbookbox()" >Book</button>
+            <button class="btn btn-primary bookbtn"  onclick="openbookbox()" >Book</button> -->
             
-          </div>
-        </div>
+          <!-- </div> -->
+        <!-- </div> -->
         <div class="roombox">
           <div class="hotelphoto h2"></div>
           <div class="roomdata">
@@ -293,9 +293,9 @@ font-size: 17px !important;
             <!-- <button class="btn btn-primary bookbtn" onclick="openbookbox()">Book</button> -->
             <button class="btn btn-primary bookbtn" onclick="redirectToDeluxRoom()">Book</button>
 
-          </div>
-        </div>
-        <div class="roombox">
+          <!-- </div> -->
+        <!-- </div> -->
+        <!-- <div class="roombox">
           <div class="hotelphoto h3"></div>
           <div class="roomdata">
             <h2>Guest Room</h2>
@@ -317,9 +317,9 @@ font-size: 17px !important;
             </div>
             <button class="btn btn-primary bookbtn" onclick="openbookbox()">Book</button>
           </div>
-        </div>
-      </div>
-    </div>
+        </div> -->
+      <!-- </div> -->
+    <!-- </div> -->
   </section>
 
   <section id="thirdsection">
