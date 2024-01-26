@@ -167,6 +167,15 @@ ul li a:hover{
     /* background-color: #0040ff; */
 }
 
+@media only screen and (max-width: 767px) {
+    .ourroom {
+        height: auto; /* Set height to auto for mobile view */
+    }
+}
+
+
+
+
 .head{
     text-align: center;
     margin-bottom: 40px;
@@ -180,7 +189,7 @@ ul li a:hover{
 
 .roomselect .roombox{
     height: 100%;
-    width: 300px;
+    width: 390px;
     background-color: rgb(8, 8, 48);
     border-radius: 10px;
     overflow: hidden;
@@ -357,12 +366,12 @@ font-size: 30px;
     #secondsection{
         height: auto;
     }
-    #secondsection{
+    /* #secondsection{
         height: 240vh;
     }
     #secondsection img{
         display: none;
-    }
+    } */
     .ourroom{
         top: 30px;
         height: auto;
@@ -403,4 +412,14 @@ font-size: 30px;
     #contactus{
         padding: 0 30px;
     }
+}
+
+/* #price{
+ font-size: 17px;
+ 
+ color: white;
+} */
+
+#price{
+    font-size: 20px;
 }

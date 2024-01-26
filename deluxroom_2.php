@@ -268,7 +268,7 @@ font-size: 17px !important;
         <div class="roombox">
           <div class="hotelphoto h1"></div>
           <div class="roomdata">
-            <h2>Bed Room</h2>
+            <h2>ROOM 1</h2>
             <div class="services">
               <!-- <i class="fa-solid fa-wifi"></i> -->
               <!-- <i class="fa-solid fa-burger"></i> -->
@@ -283,7 +283,7 @@ font-size: 17px !important;
         <div class="roombox">
           <div class="hotelphoto h2"></div>
           <div class="roomdata">
-            <h2>Living Hall</h2>
+            <h2>ROOM 2</h2>
             <div class="services">
               <!-- <i class="fa-solid fa-wifi"></i>
               <i class="fa-solid fa-burger"></i>
@@ -293,25 +293,25 @@ font-size: 17px !important;
             <!-- <button class="btn btn-primary bookbtn" onclick="openbookbox()">Book</button> -->
             <!-- <button class="btn btn-primary bookbtn" onclick="redirectToDeluxRoom()">Book</button> -->
 
-          </div>
+          <!-- </div>
         </div>
         <div class="roombox">
           <div class="hotelphoto h3"></div>
           <div class="roomdata">
-            <h2>Guest Room</h2>
-            <div class="services">
+            <h2>ROOM 3</h2>
+            <div class="services"> -->
               <!-- <i class="fa-solid fa-wifi"></i>
               <i class="fa-solid fa-burger"></i>
               <i class="fa-solid fa-spa"></i> -->
             </div>
             <!-- <button class="btn btn-primary bookbtn" onclick="openbookbox()">Book</button> -->
-          </div>
+          <!-- </div>
         </div>
         <div class="roombox">
           <div class="hotelphoto h4"></div>
           <div class="roomdata">
-            <h2>Single Room</h2>
-            <div class="services">
+            <h2>ROOM 4</h2>
+            <div class="services"> -->
               <!-- <i class="fa-solid fa-wifi"></i>
               <i class="fa-solid fa-burger"></i> -->
             </div>
@@ -349,13 +349,54 @@ font-size: 17px !important;
                     <li> Complimentary breakfast</li>
                     <li> En-suite bathroom with luxury amenities</li>
                 </ul>
-            <button class="btn btn-primary bookbtn" id="button_center"  onclick="openbookbox()" >Book</button>
+            <button class="btn btn-primary bookbtn btn-lg" id="button_center"  onclick="openbookbox()" >Book</button>
 
 
 
 
                 
   </section>
+
+
+  <h2 class="u-custom-font u-font-montserrat u-text u-text-default u-text-1">&nbsp;&nbsp;Near By Places</h2>
+
+<section id="contactus2">
+<div class="social2">
+&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;
+<!-- &emsp;&emsp;&emsp;&emsp; -->
+<!-- &emsp;&emsp;&emsp;&emsp; -->
+<!-- &emsp;&emsp;&emsp;&emsp; -->
+<!-- &emsp;&emsp;&emsp;&emsp; -->
+
+<a href="https://maps.app.goo.gl/G4ZwsfvyzTagFb1G7" target="_blank">
+<i class="fa-solid fa-location-dot"> A e r o S p a c e</i>
+</a>
+&emsp;&emsp;&emsp;&emsp;
+<a href="https://maps.app.goo.gl/UArXemwDN2rWTkh29" target="_blank">
+<!-- <i class="fa-brands fa-airbnb"></i> -->
+<i class="fa-solid fa-location-dot "> G u m m a n a h a l l i </i>
+</a>
+
+<!-- &emsp;&emsp;&emsp;&emsp;
+<a href="mailto:theroyalmoonhotels@email.com">
+<i class="fa-solid fa-location-dot">G o i b i o</i>
+
+</a>
+
+&emsp;&emsp;&emsp;&emsp;
+<a href="https://www.twitter.com/rohit14604" target="_blank">
+<i class="fa-solid fa-location-dot">E a s e  M y  T r i p </i>
+
+</a> -->
+
+</div>
+
+
+</section>
+
 
   <hr>
 
@@ -370,7 +411,7 @@ font-size: 17px !important;
       <div class="col-12 col-lg-6 col-xl-7">
         <div class="row justify-content-xl-center">
           <div class="col-12 col-xl-11">
-            <h2 class="h1 mb-3">Who Are We?</h2>
+            <h2 >Who Are We?</h2>
             <p class="lead fs-4 text-secondary mb-3">We help people to build incredible brands and superior products. Our perspective is to furnish outstanding captivating services.</p>
             <p class="mb-5">Nullam gravida orci ac luctus molestie. Fusce finibus congue erat, non aliquam magna tincidunt at. Aenean lacinia arcu ex, sed pharetra nibh porta a. Curabitur vel consequat nibh, ac interdum nisl. Nunc pulvinar nec massa vitae sollicitudin.</p>
             <div class="row gy-4 gy-md-0 gx-xxl-5X">
@@ -457,8 +498,8 @@ font-size: 17px !important;
     </section> -->
     
     <section class="u-align-center u-clearfix u-section-1" id="carousel_ec01">
-    <div class="u-clearfix u-sheet u-sheet-1">
-        <h2 class="u-custom-font u-font-montserrat u-text u-text-default u-text-1">Here are some of our clients</h2>
+    <!-- <div class="u-clearfix u-sheet u-sheet-1">
+        <h2 class="u-custom-font u-font-montserrat u-text u-text-default u-text-1">We are here as well!!</h2>
         <div class="custom-expanded u-list u-list-1">
             <div class="u-repeater u-repeater-1" style="display: flex; justify-content: center; align-items: center;">
                 <div class="u-align-center u-container-style u-list-item u-repeater-item" style="flex: 0 0 25%;">
@@ -479,9 +520,43 @@ font-size: 17px !important;
                     </div>
                 </div>
                 <!-- Add similar blocks for other images -->
-            </div>
-        </div>
+                <h2 class="u-custom-font u-font-montserrat u-text u-text-default u-text-1">We are here as well!!</h2>
+
+                <section id="contactus20">
+    <div class="social">
+    &emsp;&emsp;&emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;
+    <!-- &emsp;&emsp;&emsp;&emsp; -->
+    <!-- &emsp;&emsp;&emsp;&emsp; -->
+    <!-- &emsp;&emsp;&emsp;&emsp; -->
+    <!-- &emsp;&emsp;&emsp;&emsp; -->
+    <!-- &emsp;&emsp;&emsp;&emsp; -->
+    <!-- &emsp;&emsp;&emsp;&emsp; -->
+      
+        <a href="https://www.instagram.com/_roo_hiit_" target="_blank">
+        <i class=" fa-brands fa-airbnb"> A i r b n b</i>
+        </a>
+      &emsp;&emsp;&emsp;&emsp;
+        <a href="https://www.facebook.com/your_facebook_page" target="_blank">
+        <!-- <i class="fa-brands fa-airbnb"></i> -->
+        <i class="fa-solid fa-hotel"> M a k e M y  T r i p </i>
+        </a>
+
+        &emsp;&emsp;&emsp;&emsp;
+        <a href="mailto:theroyalmoonhotels@email.com">
+        <i class="fa-solid fa-hotel"> G o i b i o</i>
+
+        </a>
+
+        &emsp;&emsp;&emsp;&emsp;
+        <a href="https://www.twitter.com/rohit14604" target="_blank">
+        <i class="fa-solid fa-hotel"> E a s e  M y  T r i p </i>
+
+        </a>
+
     </div>
+
+            
 </section>
 
 
@@ -520,10 +595,18 @@ echo '<i class="fas fa-gem me-3"></i><b>THE ROYAL MOON</b> ';
 echo '</h6>';
 echo '<p>';
 
-echo 'Plot No 1 and 2, Sy No, 119/723,<br/>';
-echo 'Bagalur - Budigere Road,<br/>';
-echo ' Old  Tavern  Road,  Dasanayakanahalli,<br/> Bengaluru-562149, <br/>Karnataka, India<br/><br/><br/>';
+echo '<div class="map">';
 
+echo '<a href="https://maps.app.goo.gl/ynhMLju5frXpe3DVA">Plot No 1 and 2, Sy No, 119/723,<br/> </a>';
+echo '<a href="https://maps.app.goo.gl/ynhMLju5frXpe3DVA">Bagalur - Budigere Road,<br/> </a>';
+echo '<a href="https://maps.app.goo.gl/ynhMLju5frXpe3DVA">Old  Tavern  Road,  Bagalur,<br/> Bengaluru-562149, <br/>Karnataka, India </a>';
+
+
+echo '</div>';
+
+// echo 'Bagalur - Budigere Road,<br/>';
+// echo ' Old  Tavern  Road,  Bagalur,<br/> Bengaluru-562149, <br/>Karnataka, India<br/><br/><br/>';
+echo '<br/>';
 //GMAIL
 
 echo '<i class="fas fa-envelope me-3"></i>';
@@ -565,7 +648,7 @@ echo '<!-- Section: Links  -->';
 echo '';
 echo '<!-- Copyright -->';
 echo '<div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">';
-echo '© 2023 Copyright:All Rights Reserved';
+echo '© 2024 Copyright:All Rights Reserved';
 echo '<a class="text-reset fw-bold>theroyalmoon</a>';
 echo '</div>';
 echo '<!-- Copyright -->';
@@ -593,6 +676,7 @@ echo '';
         </a>
       &emsp;&emsp;&emsp;&emsp;
         <a href="https://www.facebook.com/your_facebook_page" target="_blank">
+        <!-- <i class="fa-brands fa-airbnb"></i> -->
             <i class="fab fa-facebook"></i>
         </a>
 
