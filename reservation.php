@@ -194,7 +194,7 @@ openbookbox = () => {
     if (usermail) {
         bookbox.style.display = "flex";
     } else {
-        window.location.href = "index.php";
+        window.location.href = "login.php";
     }
 }
 

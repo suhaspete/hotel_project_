@@ -89,7 +89,7 @@ font-size: 17px !important;
 
 
 <div class="whatsapp_main">
-<a href="https://wa.me/9535443273?text=hello,%20I%20want%20to%20know%20more%20about%20the%20THE%20ROYAL%20MOON%20services" target="_blank"><img src="image\whatsappicon.png" alt="" width="8%" class="whatsapp_img"> </a>
+<a href="https://wa.me/872233799?text=hello,%20I%20want%20to%20know%20more%20about%20the%20THE%20ROYAL%20MOON%20services" target="_blank"><img src="image\whatsappicon.png" alt="" width="8%" class="whatsapp_img"> </a>
 </div>
 </head>
 
@@ -341,6 +341,7 @@ font-size: 17px !important;
         <h2>Heli service</h2>
       </div>
     </div> -->
+    <br>
     <ul class="list-unstyled text-white" id="deluxroom_2">
                     <li> Spacious and elegantly decorated</li>
                     <li> King-size bed with premium linens</li>
@@ -356,7 +357,9 @@ font-size: 17px !important;
 
                 
   </section>
-
+<!-- <br> -->
+<!-- <br> -->
+  <!-- <br> -->
 
   <h2 class="u-custom-font u-font-montserrat u-text u-text-default u-text-1">&nbsp;&nbsp;Near By Places</h2>
 
@@ -402,7 +405,7 @@ font-size: 17px !important;
 
 
 <!-- About 1 - Bootstrap Brain Component -->
-<section class="py-3 py-md-5 py-xl-8">
+<!-- <section class="py-3 py-md-5 py-xl-8">
   <div class="container">
     <div class="row gy-3 gy-md-4 gy-lg-0 align-items-lg-center">
       <div class="col-12 col-lg-6 col-xl-5">
@@ -447,7 +450,7 @@ font-size: 17px !important;
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
 
 
@@ -497,7 +500,7 @@ font-size: 17px !important;
       </div>
     </section> -->
     
-    <section class="u-align-center u-clearfix u-section-1" id="carousel_ec01">
+    <!-- <section class="u-align-center u-clearfix u-section-1" id="carousel_ec01"> -->
     <!-- <div class="u-clearfix u-sheet u-sheet-1">
         <h2 class="u-custom-font u-font-montserrat u-text u-text-default u-text-1">We are here as well!!</h2>
         <div class="custom-expanded u-list u-list-1">
@@ -520,12 +523,12 @@ font-size: 17px !important;
                     </div>
                 </div>
                 <!-- Add similar blocks for other images -->
-                <h2 class="u-custom-font u-font-montserrat u-text u-text-default u-text-1">We are here as well!!</h2>
+                <!-- <h2 class="u-custom-font u-font-montserrat u-text u-text-default u-text-1">We are here as well!!</h2> -->
 
-                <section id="contactus20">
-    <div class="social">
-    &emsp;&emsp;&emsp;&emsp;
-    &emsp;&emsp;&emsp;&emsp;
+                <!-- <section id="contactus20"> -->
+    <!-- <div class="social"> -->
+    <!-- &emsp;&emsp;&emsp;&emsp; -->
+    <!-- &emsp;&emsp;&emsp;&emsp; -->
     <!-- &emsp;&emsp;&emsp;&emsp; -->
     <!-- &emsp;&emsp;&emsp;&emsp; -->
     <!-- &emsp;&emsp;&emsp;&emsp; -->
@@ -533,13 +536,13 @@ font-size: 17px !important;
     <!-- &emsp;&emsp;&emsp;&emsp; -->
     <!-- &emsp;&emsp;&emsp;&emsp; -->
       
-        <a href="https://www.instagram.com/_roo_hiit_" target="_blank">
+        <!-- <a href="https://www.instagram.com/_roo_hiit_" target="_blank">
         <i class=" fa-brands fa-airbnb"> A i r b n b</i>
         </a>
       &emsp;&emsp;&emsp;&emsp;
         <a href="https://www.facebook.com/your_facebook_page" target="_blank">
         <!-- <i class="fa-brands fa-airbnb"></i> -->
-        <i class="fa-solid fa-hotel"> M a k e M y  T r i p </i>
+        <!-- <i class="fa-solid fa-hotel"> M a k e M y  T r i p </i>
         </a>
 
         &emsp;&emsp;&emsp;&emsp;
@@ -557,10 +560,85 @@ font-size: 17px !important;
     </div>
 
             
+</section> --> 
+
+
+<!-- About 1 - Bootstrap Brain Component -->
+<section class="py-3 py-md-5 py-xl-8">
+  <div class="container">
+    <div class="row gy-3 gy-md-4 gy-lg-0 align-items-lg-center">
+      <div class="col-12 col-lg-6 col-xl-5">
+        <img class="img-fluid rounded" loading="lazy" src="image\about-img-1.jpeg" alt="">
+      </div>
+      <div class="col-12 col-lg-6 col-xl-7">
+        <div class="row justify-content-xl-center">
+          <div class="col-12 col-xl-11">
+            <h2>Who Are We?</h2>
+            <p class="lead fs-4 text-secondary mb-3">
+Welcome to Royal Moon Hotel! Relax in comfy rooms, savor tasty bites, and stay connected with fast Wi-Fi. Explore nearby attractions, guided by our friendly team. Your simple yet cool getaway starts here. Book now for a Royal experience! 🌟</p>
+            <!-- <p class="mb-5">Nullam gravida orci ac luctus molestie. Fusce finibus congue erat, non aliquam magna tincidunt at. Aenean lacinia arcu ex, sed pharetra nibh porta a. Curabitur vel consequat nibh, ac interdum nisl. Nunc pulvinar nec massa vitae sollicitudin.</p> -->
+            <div class="row gy-4 gy-md-0 gx-xxl-5X">
+              <div class="col-12 col-md-6">
+                <div class="d-flex">
+                  <div class="me-4 text-primary">
+                    <!-- <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-gear-fill" viewBox="0 0 16 16">
+                      <path d="M9.405 1.05c-.413-1.4-2.397-1.4-2.81 0l-.1.34a1.464 1.464 0 0 1-2.105.872l-.31-.17c-1.283-.698-2.686.705-1.987 1.987l.169.311c.446.82.023 1.841-.872 2.105l-.34.1c-1.4.413-1.4 2.397 0 2.81l.34.1a1.464 1.464 0 0 1 .872 2.105l-.17.31c-.698 1.283.705 2.686 1.987 1.987l.311-.169a1.464 1.464 0 0 1 2.105.872l.1.34c.413 1.4 2.397 1.4 2.81 0l.1-.34a1.464 1.464 0 0 1 2.105-.872l.31.17c1.283.698 2.686-.705 1.987-1.987l-.169-.311a1.464 1.464 0 0 1 .872-2.105l.34-.1c1.4-.413 1.4-2.397 0-2.81l-.34-.1a1.464 1.464 0 0 1-.872-2.105l.17-.31c.698-1.283-.705-2.686-1.987-1.987l-.311.169a1.464 1.464 0 0 1-2.105-.872l-.1-.34zM8 10.93a2.929 2.929 0 1 1 0-5.86 2.929 2.929 0 0 1 0 5.858z" />
+                    </svg> -->
+                  </div>
+                  <div>
+                    <h4 class="mb-3">🛌Unparalleled Comfort:</h4>
+                    <p class="text-secondary mb-0">Enjoy cozy rooms and modern amenities.Savor delicious meals at our on-site restaurant.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-md-6">
+                <div class="d-flex">
+                  <div class="me-4 text-primary">
+                    <!-- <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-fire" viewBox="0 0 16 16">
+                      <path d="M8 16c3.314 0 6-2 6-5.5 0-1.5-.5-4-2.5-6 .25 1.5-1.25 2-1.25 2C11 4 9 .5 6 0c.357 2 .5 4-2 6-1.25 1-2 2.729-2 4.5C2 14 4.686 16 8 16Zm0-1c-1.657 0-3-1-3-2.75 0-.75.25-2 1.25-3C6.125 10 7 10.5 7 10.5c-.375-1.25.5-3.25 2-3.5-.179 1-.25 2 1 3 .625.5 1 1.364 1 2.25C11 14 9.657 15 8 15Z" /> -->
+                    </svg>
+                  </div>
+                  <div>
+                    <h4 class="mb-3">🏞️ Prime Location</h4>
+                    <p class="text-secondary mb-0">Discover parks and tourist attractions just moments away.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 
 
-
+<!-- Add similar blocks for other images -->
+<section class="u-align-center u-clearfix u-section-1" id="carousel_ec01">
+    <div class="u-clearfix u-sheet u-sheet-1">
+        <h2 class="u-custom-font u-font-montserrat u-text u-text-default u-text-1">We are here as well!!</h2>
+        <div class="custom-expanded u-list u-list-1">
+            <div class="u-repeater u-repeater-1" style="display: flex; justify-content: center; align-items: center;">
+                <div class="u-align-center u-container-style u-list-item u-repeater-item" style="flex: 0 0 25%;">
+                    <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-1">
+                        <a href="https://www.airbnb.com" target="_blank">
+                            <img class="u-image u-image-contain u-image-default u-preserve-proportions u-image-1" src="image\airbnb.png" alt="" data-image-width="20" data-image-height="20">
+                        </a>
+                    </div>
+                </div>
+                <div></div>
+                <div class="u-align-center u-container-style u-list-item u-repeater-item" style="flex: 0 0 25%;">
+                    <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-2">
+                        <a href="https://www.makemytrip.com" target="_blank">
+                            <img class="u-image u-image-contain u-image-default u-preserve-proportions u-image-2" src="image\makemy.png" alt="" data-image-width="20" data-image-height="20">
+                        </a>
+                    </div>
+                </div>
+                <!-- Add more entries as needed -->
+            </div>
+        </div>
+    </div>
+</section>
 
 
 
@@ -750,7 +828,7 @@ openbookbox = () => {
       if (usermail) {
         bookbox.style.display = "flex";
       } else {
-        window.location.href = "http://localhost/hotel_project_/index.php";
+        window.location.href = "http://localhost/hotel_project_/login.php";
         
       }
       

@@ -236,6 +236,17 @@ font-size: 30px;
         margin: 60px;
         margin: 20px 100px 10px 155px;
      }
+     .social2{
+        /* height: 70px;
+        width: 100%;
+        background-color: black;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding:0 100px; */
+        /* font-size: 5px; */
+     }
+     
 
 }
 
@@ -441,3 +452,30 @@ font-size: 30px;
 /* .social2{
     text-decoration: #0a0e1c;
 } */
+
+
+.custom-expanded .u-image-1 {
+    width: 100px;
+    height: 100px; /* Optional: Set height if needed */
+}
+
+.custom-expanded .u-image-2 {
+    width: 150px;
+    height: 150px; /* Optional: Set height if needed */
+}
+
+.u-repeater-1 {
+    display: flex;
+    align-items: center;
+}
+
+.u-container-style.u-list-item.u-repeater-item {
+    flex: 0 0 25%; /* Adjust the width as needed */
+}
+
+.u-container-layout.u-similar-container.u-valign-middle.u-container-layout-1,
+.u-container-layout.u-similar-container.u-valign-middle.u-container-layout-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -423,3 +423,30 @@ font-size: 30px;
 #price{
     font-size: 20px;
 }
+
+
+.custom-expanded .u-image-1 {
+    width: 100px;
+    height: 100px; /* Optional: Set height if needed */
+}
+
+.custom-expanded .u-image-2 {
+    width: 150px;
+    height: 150px; /* Optional: Set height if needed */
+}
+
+.u-repeater-1 {
+    display: flex;
+    align-items: center;
+}
+
+.u-container-style.u-list-item.u-repeater-item {
+    flex: 0 0 25%; /* Adjust the width as needed */
+}
+
+.u-container-layout.u-similar-container.u-valign-middle.u-container-layout-1,
+.u-container-layout.u-similar-container.u-valign-middle.u-container-layout-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
